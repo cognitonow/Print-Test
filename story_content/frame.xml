@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Freebie_Print_Cert_SL360" />
+              <option name="title_text" value="Print Test" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -60,6 +60,7 @@
           <option name="seekbar" value="false">
             <options>
               <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
             </options>
           </option>
           <option name="search" value="false" />
