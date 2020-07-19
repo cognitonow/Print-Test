@@ -2,16 +2,24 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6BQ26w9ggRG":
+      case "64Q6i1mG1A6":
         Script1();
         break;
-      case "6bG9WacaiFD":
+      case "5j2iRiPWPSM":
         Script2();
+        break;
+      case "62Oxy52i6ZR":
+        Script3();
         break;
   }
 }
 
 function Script1()
+{
+  window.print();
+}
+
+function Script2()
 {
   var currentDate = new Date()
 var day = currentDate.getDate()
@@ -22,7 +30,7 @@ var newName = month + "/" + day + "/" +year
 player.SetVar("DateValue", newName);
 }
 
-function Script2()
+function Script3()
 {
   var player = GetPlayer();
 
