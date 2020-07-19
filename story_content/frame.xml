@@ -75,7 +75,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1186,7 +1186,7 @@
         <slidelink slideid="_player.6TjIzG4U7U7" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6TjIzG4U7U7.6Kzt9n4Mnaf" displaytext="Pick One" expand="false" type="slide" />
-            <slidelink slideid="_player.6TjIzG4U7U7.5x21dvKC7uX" displaytext="Certificate" expand="false" type="slide" />
+            <slidelink slideid="_player.6TjIzG4U7U7.6GwHZVa3ic4" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
